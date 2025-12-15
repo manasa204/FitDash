@@ -42,7 +42,6 @@ The application will open at [http://localhost:3000](http://localhost:3000)
 
 ## Project Structure
 
-```
 fitness-dashboard/
 ├── public/
 ├── src/
@@ -65,3 +64,4 @@ fitness-dashboard/
 - **Backend**: Node.js, Express
 - **Database**: MongoDB with Mongoose
 - **Styling**: CSS3
+  
