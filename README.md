@@ -9,7 +9,7 @@ A comprehensive fitness tracking application built with React.js, Firebase Authe
 - **Workouts**: Browse and filter workout routines by type and difficulty
 - **Profile Management**: Update user information and manage account settings
 
-## Setup Instructions
+##  Instructions
 
 ### 1. Install Dependencies
 ```bash
