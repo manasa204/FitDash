@@ -1,7 +1,6 @@
 Fitness Dashboard
 
 A comprehensive fitness tracking application built with React.js, Firebase Authentication, and MongoDB.
-
 ## Features
 
 - **Authentication**: Secure signup and login with Firebase
