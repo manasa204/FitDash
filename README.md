@@ -9,7 +9,6 @@ A comprehensive fitness tracking application built with React.js, Firebase Authe
 - **Profile Management**: Update user information and manage account settings
 
 ##  Instructions
-
 ### 1. Install Dependencies
 ```bash
 npm install
